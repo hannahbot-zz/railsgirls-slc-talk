@@ -202,7 +202,7 @@ body {
 		color: #17ff2e;
 	}
 	.reveal .slides section .fragment.highlight-blue.visible {
-		color: #1b91ff;
+		color: #A2DBE8;
 	}
 
 .reveal .slides section .fragment.highlight-current-red.current-fragment {
@@ -1876,5 +1876,3 @@ body {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
-
-
